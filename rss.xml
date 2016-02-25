@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Rudyfive]]></title>
-        <description><![CDATA[Rudyfive]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hello World]]></title>
+        <description><![CDATA[Hello World]]></description>
+        <link>https://thegrid.ai/rudyfive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 19:27:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 19:40:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rudyfive/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Diego in his puppy sweater]]></title>
-            <description><![CDATA[<article><h1>Diego in his puppy sweater</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aee7081d-b871-46cf-a334-d99acc725d87.png"></article>]]></description>
-            <link>undefineddiego-in-his-puppy-sweater/index.html</link>
+            <description><![CDATA[<article><h1>Diego in his puppy sweater</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86c7aeb2b70288632ded00c08d63c912dbfef9a4.png"></article>]]></description>
+            <link>urn:uuid:26d3ea8a-e504-4b2e-82ac-896f43726db0</link>
             <guid isPermaLink="false">0782cf9f-006f-4c48-8628-d0d640bbb9dc</guid>
-            <pubDate>Thu, 25 Feb 2016 19:25:53 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 19:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

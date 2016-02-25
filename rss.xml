@@ -4,14 +4,14 @@
         <description><![CDATA[Hello World]]></description>
         <link>https://thegrid.ai/rudyfive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 19:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 19:47:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rudyfive/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Diego in his puppy sweater]]></title>
             <description><![CDATA[<article><h1>Diego in his puppy sweater</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86c7aeb2b70288632ded00c08d63c912dbfef9a4.png"></article>]]></description>
             <link>urn:uuid:26d3ea8a-e504-4b2e-82ac-896f43726db0</link>
             <guid isPermaLink="false">0782cf9f-006f-4c48-8628-d0d640bbb9dc</guid>
-            <pubDate>Thu, 25 Feb 2016 19:40:00 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 19:47:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

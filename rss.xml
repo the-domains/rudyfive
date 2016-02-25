@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rudyfive]]></title>
+        <description><![CDATA[Rudyfive]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 19:27:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Diego in his puppy sweater]]></title>
+            <description><![CDATA[<article><h1>Diego in his puppy sweater</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aee7081d-b871-46cf-a334-d99acc725d87.png"></article>]]></description>
+            <link>undefineddiego-in-his-puppy-sweater/index.html</link>
+            <guid isPermaLink="false">0782cf9f-006f-4c48-8628-d0d640bbb9dc</guid>
+            <pubDate>Thu, 25 Feb 2016 19:25:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

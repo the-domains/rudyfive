@@ -1,14 +1,29 @@
+name: Rudyfive
+favicon: null
 layout_spectrum: 0.6782377
 typography_spectrum: 0.4487237
+title: Hello World
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1363178
-  lightness: 0.4958116
-  brandStrength: 0.04088052
-  rhythmicContrast: 0.8483691
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: Rudyfive
+  brandStrength: 0.04088052
+  lightness: 0.4958116
+  saturation: 0.1363178
+  rhythmicContrast: 0.8483691
+purpose: []

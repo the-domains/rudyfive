@@ -1,19 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:26d3ea8a-e504-4b2e-82ac-896f43726db0'
 author: []
-datePublished: '2016-02-25T19:25:53.768Z'
+datePublished: '2016-02-25T19:40:00.576Z'
 publisher:
   name: ''
   domain: ''
+  url: null
+  favicon: null
 title: Diego in his puppy sweater
-dateModified: '2016-02-25T19:25:48.839Z'
-starred: false
+dateModified: '2016-02-25T19:39:40.993Z'
+starred: true
 sourcePath: _posts/2016-02-25-diego-in-his-puppy-sweater.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: diego-in-his-puppy-sweater/index.html
+inLanguage: null
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 

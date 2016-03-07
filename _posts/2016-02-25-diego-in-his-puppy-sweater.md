@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-25T19:47:03.652Z'
-dateModified: '2016-02-25T19:46:57.363Z'
+datePublished: '2016-03-07T00:30:06.869Z'
+dateModified: '2016-02-25T19:47:11.747Z'
 author: []
 title: Diego in his puppy sweater
 sourcePath: _posts/2016-02-25-diego-in-his-puppy-sweater.md
